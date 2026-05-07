@@ -25,3 +25,5 @@ This section contains the Unity C# scripts used for the haptic glove demonstrati
 
 - `TimedProximityTask.cs` controls the proximity-based haptic feedback task.
 - `ReactionTimeTask.cs` controls the reaction-time task comparing visual and haptic cues.
+
+I acknowledge the use of ChatGPT as a coding support tool during this project. It was used to assist with the development and debugging of the ESP32 firmware and Unity game code.
